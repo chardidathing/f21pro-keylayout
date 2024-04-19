@@ -1,0 +1,6 @@
+id=F21ProKeyLayout
+name=F21ProKeyLayout - Import keylayouts from Qin F21 Pro Stock Firmware.
+version=v1.0
+versionCode=100
+author=rainyskye
+description=This module adds keylayout files for the Qin F21 Pro.
